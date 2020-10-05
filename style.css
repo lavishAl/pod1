@@ -1,0 +1,17 @@
+body {
+    color: #535353;
+    font-family: 'Open Sans', sans-serif;
+    margin: 8px;
+}
+
+h1, h2 {
+    color: #4b2e83;
+    font-family: 'Encode Sans', sans-serif;
+    font-weight: 900;
+
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-top: 3em;
+}
